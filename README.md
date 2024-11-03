@@ -4,11 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zscbana&label=Profile%20views&color=b40e0e&style=plastic" alt="zscbana" /> </p>
 
 - 🌱 I’m currently **DevOps, Software engineer**
-
+- My website [https://sites.google.com/view/omarelbanna/home](https://sites.google.com/view/omarelbanna/home)
 - 📝 I regularly write articles on [https://medium.com/@zscbana](https://medium.com/@zscbana)
-
 - 📫 How to reach me **oelbanna17@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IPsl2LNjzBuehrkuQ4KbRiVQYEFlRdHM/view?usp=sharing](https://drive.google.com/file/d/1IPsl2LNjzBuehrkuQ4KbRiVQYEFlRdHM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
