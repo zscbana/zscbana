@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zscbana&label=Profile%20views&color=b40e0e&style=plastic" alt="zscbana" /> </p>
 
-- 🌱 I’m currently learning **DevOps, Software engineering**
+- 🌱 I’m currently **DevOps, Software engineer**
 
 - 📝 I regularly write articles on [https://medium.com/@zscbana](https://medium.com/@zscbana)
 
