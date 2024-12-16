@@ -15,7 +15,6 @@ I am passionate about **Cloud Computing** and **DevOps**, with hands-on experien
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?style=flat-square&logo=amazonaws&logoColor=white)](#)
 [![Nutanix NCP-MCI](https://img.shields.io/badge/Nutanix-NCP--MCI-blue?style=flat-square&logo=nutanix&logoColor=white)](#)
 [![GitHub Foundation](https://img.shields.io/badge/GitHub-Foundation-black?style=flat-square&logo=github)](#)
-[![FWD Web Development Foundational](https://img.shields.io/badge/FWD-Web_Development_Foundational-green?style=flat-square&logo=html5&logoColor=white)](#)
 [![CCNA](https://img.shields.io/badge/CCNA-Certified-blue?style=flat-square&logo=cisco&logoColor=white)](#)
 
 ---
