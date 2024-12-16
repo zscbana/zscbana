@@ -4,17 +4,15 @@
 I am passionate about **Cloud Computing** and **DevOps**, with hands-on experience in Azure, AWS, and modern DevOps tools. I hold multiple certifications and have a proven ability to design scalable cloud solutions, optimize infrastructure, and work collaboratively on innovative projects.
 
 ---
-
-## 📈 **GitHub Stats**
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zscbana&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zscbana&layout=compact&theme=radical)](https://github.com/zscbana)
-
----
-
 ## 🔖 **Certifications**
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?style=flat-square&logo=amazonaws&logoColor=white)](#)
 [![Nutanix NCP-MCI](https://img.shields.io/badge/Nutanix-NCP--MCI-blue?style=flat-square&logo=nutanix&logoColor=white)](#)
 [![GitHub Foundation](https://img.shields.io/badge/GitHub-Foundation-black?style=flat-square&logo=github)](#)
+
+---
+## 📈 **GitHub Stats**
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zscbana&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zscbana&layout=compact&theme=radical)](https://github.com/zscbana)
 
 ---
 
