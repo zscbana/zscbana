@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Omar Elbanna!
+# I'm Omar Elbanna!
 
 ### 🏆 **Cloud Engineer & DevOps Enthusiast**
 I am passionate about **Cloud Computing** and **DevOps**, with hands-on experience in Azure, AWS, and modern DevOps tools. I hold multiple certifications and have a proven ability to design scalable cloud solutions, optimize infrastructure, and work collaboratively on innovative projects.
