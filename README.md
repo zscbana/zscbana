@@ -45,5 +45,3 @@ I am passionate about **Cloud Computing** and **DevOps**, with hands-on experien
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar_Elbanna-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/omar-elbanna-b44228118/)
 [![GitHub](https://img.shields.io/badge/GitHub-zscbana-black?style=flat-square&logo=github)](https://github.com/zscbana)
 [![Email](https://img.shields.io/badge/Email-oelbanna17@gmail.com-red?style=flat-square&logo=gmail)](mailto:oelbanna17@gmail.com)
-
----
