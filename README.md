@@ -10,11 +10,6 @@ I am passionate about **Cloud Computing** and **DevOps**, with hands-on experien
 [![GitHub Foundation](https://img.shields.io/badge/GitHub-Foundation-black?style=flat-square&logo=github)](#)
 
 ---
-## 📈 **GitHub Stats**
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zscbana&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zscbana&layout=compact&theme=radical)](https://github.com/zscbana)
-
----
 
 ## 🛠️ **Technical Skills**
 [![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat-square&logo=python)](#)
@@ -50,3 +45,5 @@ I am passionate about **Cloud Computing** and **DevOps**, with hands-on experien
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar_Elbanna-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/omar-elbanna-b44228118/)
 [![GitHub](https://img.shields.io/badge/GitHub-zscbana-black?style=flat-square&logo=github)](https://github.com/zscbana)
 [![Email](https://img.shields.io/badge/Email-oelbanna17@gmail.com-red?style=flat-square&logo=gmail)](mailto:oelbanna17@gmail.com)
+
+---
