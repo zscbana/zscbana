@@ -4,9 +4,12 @@
 I am passionate about **Cloud Computing** and **DevOps**, with hands-on experience in Azure, AWS, and modern DevOps tools. I hold multiple certifications and have a proven ability to design scalable cloud solutions, optimize infrastructure, and work collaboratively on innovative projects.
 
 ---
-## 🔖 **Certifications**
+## 🔖 **Certifications**  
+[![Microsoft Administrator (AZ-104)](https://img.shields.io/badge/Microsoft-AZ--104-0078D4?style=flat-square&logo=microsoft)](#)
+[![Oracle Cloud Infrastructure (2023-2024)](https://img.shields.io/badge/Oracle-OCI_2023--2024-red?style=flat-square&logo=oracle)](#)
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?style=flat-square&logo=amazonaws&logoColor=white)](#)
 [![Nutanix NCP-MCI](https://img.shields.io/badge/Nutanix-NCP--MCI-blue?style=flat-square&logo=nutanix&logoColor=white)](#)
+[![Huawei Solution Architectures (HCCDP)](https://img.shields.io/badge/Huawei-HCCDP-ff0000?style=flat-square&logo=huawei&logoColor=white)](#)
 [![GitHub Foundation](https://img.shields.io/badge/GitHub-Foundation-black?style=flat-square&logo=github)](#)
 
 ---
